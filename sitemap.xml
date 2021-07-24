@@ -2,68 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ywqsting.github.io/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2021-07-24T23:31:44+08:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2021-07-24T23:31:44+08:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/post/%E7%94%B3%E5%85%8B%E9%98%BF%E4%BC%A6%E6%96%AF%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0%E5%86%99%E4%BD%9C%E6%B3%95/</loc>
+    <loc>https://example.com/post/%E7%94%B3%E5%85%8B%E9%98%BF%E4%BC%A6%E6%96%AF%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0%E5%86%99%E4%BD%9C%E6%B3%95/</loc>
     <lastmod>2021-07-24T23:31:44+08:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/archives/</loc>
+    <loc>https://example.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/categories/</loc>
+    <loc>https://example.com/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/tags/css/</loc>
+    <loc>https://example.com/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/tags/html/</loc>
+    <loc>https://example.com/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/tags/markdown/</loc>
+    <loc>https://example.com/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/post/markdown-syntax/</loc>
+    <loc>https://example.com/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/series/</loc>
+    <loc>https://example.com/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/categories/syntax/</loc>
+    <loc>https://example.com/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/tags/themes/</loc>
+    <loc>https://example.com/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/categories/themes/</loc>
+    <loc>https://example.com/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/series/themes-guide/</loc>
+    <loc>https://example.com/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/post/placeholder-text/</loc>
+    <loc>https://example.com/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/tags/text/</loc>
+    <loc>https://example.com/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/post/math-typesetting/</loc>
+    <loc>https://example.com/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/tags/emoji/</loc>
+    <loc>https://example.com/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/post/emoji-support/</loc>
+    <loc>https://example.com/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/tags/index/</loc>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ywqsting.github.io/post/%E5%B0%8F%E7%A1%AE%E5%B9%B8/</loc>
+    <loc>https://example.com/tags/index/</loc>
   </url>
 </urlset>
