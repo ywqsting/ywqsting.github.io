@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jul 2021 21:09:25 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme preview</title>
       <link>http://localhost:1313/post/even-preview/</link>
@@ -14,6 +14,15 @@
       
       <guid>http://localhost:1313/post/even-preview/</guid>
       <description>Based on MarkdownPreview test.md. Markdown 1 2 3 4 5 6 7 8 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 ### Duplicate Header ### Duplicate Header H1 H2 H3 H4 H5 H6 Duplicate Header Duplicate Header Paragraphs 1 2 3 4 This is a paragraph. I am still part of the paragraph. New paragraph. This is a paragraph. I am still part of the paragraph.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/post/test/</link>
+      <pubDate>Sat, 24 Jul 2021 21:09:25 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/test/</guid>
+      <description>Hugo建博客流程 创建一个站点 hugo new site 下载主题 创建文章 初步配置 config. toml 启动 hugo 服务器 hugo server -D, 进入 http://localhost:1313/ 预览页面 部署到 GitHub Pages 上 创建站点 下载主题 创建文章 1 hugo new post/**.md</description>
     </item>
     
     <item>
