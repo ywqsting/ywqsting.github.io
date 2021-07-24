@@ -7,10 +7,59 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jul 2021 23:31:44 +0800</lastBuildDate>
     
 	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>申克·阿伦斯《卡片笔记写作法》</title>
+      <link>https://example.com/post/%E7%94%B3%E5%85%8B%E9%98%BF%E4%BC%A6%E6%96%AF%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0%E5%86%99%E4%BD%9C%E6%B3%95/</link>
+      <pubDate>Sat, 24 Jul 2021 23:31:44 +0800</pubDate>
+      
+      <guid>https://example.com/post/%E7%94%B3%E5%85%8B%E9%98%BF%E4%BC%A6%E6%96%AF%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0%E5%86%99%E4%BD%9C%E6%B3%95/</guid>
+      <description>&lt;h2 id=&#34;metadata&#34;&gt;Metadata&lt;/h2&gt;
+&lt;p&gt;Title: 申克·阿伦斯《卡片笔记写作法》
+Create: 2021-07-17
+Tags: #genre #concept&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
+&lt;h3 id=&#34;重点归纳&#34;&gt;重点归纳&lt;/h3&gt;
+&lt;p&gt;三类笔记：闪念笔记，文献笔记，永久笔记&lt;/p&gt;
+&lt;p&gt;原则&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;写作&lt;/li&gt;
+&lt;li&gt;简洁&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;赞同&#34;&gt;赞同&lt;/h3&gt;
+&lt;h3 id=&#34;不赞同&#34;&gt;不赞同&lt;/h3&gt;
+&lt;h3 id=&#34;对我的意义&#34;&gt;对我的意义&lt;/h3&gt;
+&lt;h3 id=&#34;创建文章&#34;&gt;创建文章&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;hugo new post/**.md
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;配置configtoml&#34;&gt;配置config.toml&lt;/h3&gt;
+&lt;h3 id=&#34;运行hugo&#34;&gt;运行Hugo&lt;/h3&gt;
+&lt;p&gt;在你的站点根目录执行 &lt;code&gt;Hugo&lt;/code&gt; 命令，编译生成静态文件并输出到public目录&lt;/p&gt;
+&lt;p&gt;执行&lt;code&gt;hugo server&lt;/code&gt;命令，启动web服务预览&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hugo server --theme=hyde --buildDrafts
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;浏览器里打开： http://localhost:1313&lt;/p&gt;
+&lt;h2 id=&#34;quotes&#34;&gt;Quotes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;不要以“主题”或“来源”来整理笔记，而是你会用到它的“情境”(context)。由此，你做笔记时的主要问题就变成了，“我在什么时候会再次想到或用到它？”换言之，这句话从哪儿来不重要，重要的是它能到哪儿去。前者是图书管理员的工作，后者才是思考者。&lt;/li&gt;
+&lt;li&gt;经常把零散的笔记 (比如看书时的下划线、旁边随手记的一两个心得) 整理成“永久笔记”。在这里，永久的意思是，它本身自成一段，语法通顺、有逻辑、有参考文献的，简洁而清晰，拿给别人看也鞥看懂。一个简单的衡量标准就是，你可以拿它发一条有内容的微博了，哪怕只有几十个字。&lt;/li&gt;
+&lt;li&gt;写作时，从永久笔记里面去找主题和灵感，也可以直接整段复制，毕竟它们已经是打磨润色过的了。这样你的写作也会简单顺畅很多。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;questions&#34;&gt;Questions&lt;/h2&gt;
+&lt;!-- What remains for you to consider? --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[[卢曼笔记 1]]&lt;/li&gt;
+&lt;li&gt;[[Obsidian]]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
