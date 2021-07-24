@@ -132,41 +132,7 @@ onload='renderMathInElement(document.body);'></script>
     <hr />
 </summary>
 <div class="inline toc-content">
-    <nav id="TableOfContents">
-  <ul>
-    <li><a href="#headings">Headings</a></li>
-  </ul>
-
-  <ul>
-    <li><a href="#h2">H2</a>
-      <ul>
-        <li><a href="#h3">H3</a></li>
-      </ul>
-    </li>
-    <li><a href="#paragraph">Paragraph</a></li>
-    <li><a href="#blockquotes">Blockquotes</a>
-      <ul>
-        <li></li>
-      </ul>
-    </li>
-    <li><a href="#tables">Tables</a>
-      <ul>
-        <li></li>
-      </ul>
-    </li>
-    <li><a href="#code-blocks">Code Blocks</a>
-      <ul>
-        <li></li>
-      </ul>
-    </li>
-    <li><a href="#list-types">List Types</a>
-      <ul>
-        <li></li>
-      </ul>
-    </li>
-    <li><a href="#other-elements--abbr-sub-sup-kbd-mark">Other Elements — abbr, sub, sup, kbd, mark</a></li>
-  </ul>
-</nav>
+    <nav id="TableOfContents"></nav>
 </div>
 </details>
 
@@ -180,140 +146,36 @@ onload='renderMathInElement(document.body);'></script>
 
 <article>
 	<section class="mx-auto content">
-		<div class="c-rich-text"><p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
-<h2 id="headings">Headings</h2>
-<p>The following HTML <code>&lt;h1&gt;</code>—<code>&lt;h6&gt;</code> elements represent six levels of section headings. <code>&lt;h1&gt;</code> is the highest section level while <code>&lt;h6&gt;</code> is the lowest.</p>
-<h1 id="h1">H1</h1>
-<h2 id="h2">H2</h2>
-<h3 id="h3">H3</h3>
-<h4 id="h4">H4</h4>
-<h5 id="h5">H5</h5>
-<h6 id="h6">H6</h6>
-<h2 id="paragraph">Paragraph</h2>
-<p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.</p>
-<p>Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.</p>
-<h2 id="blockquotes">Blockquotes</h2>
-<p>The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a <code>footer</code> or <code>cite</code> element, and optionally with in-line changes such as annotations and abbreviations.</p>
-<h4 id="blockquote-without-attribution">Blockquote without attribution</h4>
-<blockquote>
-<p>Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-<strong>Note</strong> that you can use <em>Markdown syntax</em> within a blockquote.</p>
-</blockquote>
-<h4 id="blockquote-with-attribution">Blockquote with attribution</h4>
-<blockquote>
-<p>Don&rsquo;t communicate by sharing memory, share memory by communicating.</p>
-— <cite>Rob Pike<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></cite></p>
-</blockquote>
-<h2 id="tables">Tables</h2>
-<p>Tables aren&rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.</p>
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Age</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Bob</td>
-<td>27</td>
-</tr>
-<tr>
-<td>Alice</td>
-<td>23</td>
-</tr>
-</tbody>
-</table>
-<h4 id="inline-markdown-within-tables">Inline Markdown within tables</h4>
-<table>
-<thead>
-<tr>
-<th>Inline   </th>
-<th>Markdown   </th>
-<th>In   </th>
-<th>Table</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><em>italics</em></td>
-<td><strong>bold</strong></td>
-<td><del>strikethrough</del>   </td>
-<td><code>code</code></td>
-</tr>
-</tbody>
-</table>
-<h2 id="code-blocks">Code Blocks</h2>
-<h4 id="code-block-with-backticks">Code block with backticks</h4>
-<pre><code>html
-&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-  &lt;meta charset=&quot;UTF-8&quot;&gt;
-  &lt;title&gt;Example HTML5 Document&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-  &lt;p&gt;Test&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</code></pre><h4 id="code-block-indented-with-four-spaces">Code block indented with four spaces</h4>
-<pre><code>&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-  &lt;meta charset=&quot;UTF-8&quot;&gt;
-  &lt;title&gt;Example HTML5 Document&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-  &lt;p&gt;Test&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</code></pre>
-<h4 id="code-block-with-hugos-internal-highlight-shortcode">Code block with Hugo&rsquo;s internal highlight shortcode</h4>
-<div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#75715e">&lt;!DOCTYPE html&gt;</span>
-<span style="color:#111">&lt;</span><span style="color:#f92672">html</span> <span style="color:#75af00">lang</span><span style="color:#f92672">=</span><span style="color:#d88200">&#34;en&#34;</span><span style="color:#111">&gt;</span>
-<span style="color:#111">&lt;</span><span style="color:#f92672">head</span><span style="color:#111">&gt;</span>
-  <span style="color:#111">&lt;</span><span style="color:#f92672">meta</span> <span style="color:#75af00">charset</span><span style="color:#f92672">=</span><span style="color:#d88200">&#34;UTF-8&#34;</span><span style="color:#111">&gt;</span>
-  <span style="color:#111">&lt;</span><span style="color:#f92672">title</span><span style="color:#111">&gt;</span>Example HTML5 Document<span style="color:#111">&lt;/</span><span style="color:#f92672">title</span><span style="color:#111">&gt;</span>
-<span style="color:#111">&lt;/</span><span style="color:#f92672">head</span><span style="color:#111">&gt;</span>
-<span style="color:#111">&lt;</span><span style="color:#f92672">body</span><span style="color:#111">&gt;</span>
-  <span style="color:#111">&lt;</span><span style="color:#f92672">p</span><span style="color:#111">&gt;</span>Test<span style="color:#111">&lt;/</span><span style="color:#f92672">p</span><span style="color:#111">&gt;</span>
-<span style="color:#111">&lt;/</span><span style="color:#f92672">body</span><span style="color:#111">&gt;</span>
-<span style="color:#111">&lt;/</span><span style="color:#f92672">html</span><span style="color:#111">&gt;</span></code></pre></div>
-<h2 id="list-types">List Types</h2>
-<h4 id="ordered-list">Ordered List</h4>
-<ol>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item</li>
-</ol>
-<h4 id="unordered-list">Unordered List</h4>
-<ul>
-<li>List item</li>
-<li>Another item</li>
-<li>And another item</li>
-</ul>
-<h4 id="nested-list">Nested list</h4>
-<ul>
-<li>Item</li>
-</ul>
-<ol>
-<li>First Sub-item</li>
-<li>Second Sub-item</li>
-</ol>
-<h2 id="other-elements--abbr-sub-sup-kbd-mark">Other Elements — abbr, sub, sup, kbd, mark</h2>
-<p><abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.</p>
-<p>H<sub>2</sub>O</p>
-<p>X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup></p>
-<p>Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.</p>
-<p>Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.</p>
-<section class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1" role="doc-endnote">
-<p>The above quote is excerpted from Rob Pike&rsquo;s <a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">talk</a> during Gopherfest, November 18, 2015.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</section></div>
+		<div class="c-rich-text"><p>==从童年起我便独自一人照顾着/历代的星辰——白鹤林《孤独》==</p>
+<p>你要对上帝足够敬畏，对未知足够好奇，对美好足够热爱。你要做一个诚实、平和、进取、理性、浪漫、有爱的人。你要在文学、音乐、戏剧、舞蹈、绘画、影视、设计、商业和技术的领域中上下求索。你要照顾自己身体的需求，探索用合适的方式去吃喝、运动、旅行。你要勤勉工作，让自己生产足够的果实，满足生存于世所应该上缴的租金；你要不被财富、权利和名声所累。你要用亲情、友情和爱情来润色你的生活。你要学习好榜样，跟张楚、皮娜·鲍什、卡夫卡，维特根斯坦为伍。你要从上帝那里获得爱心、信心、耐心。（概述）</p>
+<p>对自己诚实，如果我需要什么原则的话，诚实必须列为首要的一个。诚实并不是自我暴露。好的问题源于自己深刻的经历而非别人的复制。（诚实）</p>
+<p>不要被焦虑困扰。把忧虑的细节写下来，亲自研究它，你愈研究就会愈平静。医治焦虑的几种良方：1.睡觉 2.喝咖啡 3.跑步4.听古典乐 5.读小说6.做手工7.降低一点期望。（平和）</p>
+<p>不要丧失从新鲜的角度看问题的能力。你要敢于去想象，想象一条更好的道路，想象一个更好的自己和一个更好的世界。合法并不完全褒义，王尔德说，犯罪不是庸俗，但所有的庸俗都是犯罪。中庸虽然可以避开人生中的许多障碍，却也会因此而失去很多乐趣，因为世之奇伟诡怪之观，常在于险远。你要选择一个压倒性的欲望去实现它。成为一个乐观主义者，问题来时，不要回避，每一次困境都是一次探索自我良好的契机，不要浪费它们。（进取）</p>
+<p>真善美三者你首要追寻的应该是美，这应该是你最本能的需求和人性的体现。艺术出现在你遗漏的地方。你要在身体、行为、思想、情感上保持清洁。你要敬虔于美，时时思考「这样子好看吗？」「这样子的声音好听吗？」「这样子的行为能被称义吗？」，任何不恰当地使用身体和语言都是对美的破坏。（浪漫）</p>
+<p>多与他人产生联结，多从事合作性的工作，多做对别人有用的事，不要排斥成为别人的工具。在天上的父怎样爱你，你也当怎样爱人。世界上最违反直觉的真相就是你付出给他人的东西越多，你得到的就会越多。你要时常念及与你相关的每一个人，不时给予他们你的信任和支持。你要倾听他人的意见，而不是只想着自己要说的话。你要乐于参加志愿服务，要奉献适当的财富和时间精力去改善别人的生活。当某人无礼或刻薄地对待你时，假装他们生病了，这会使你更容易产生同情心，从而缓解冲突。（有爱）</p>
+<p>你要警惕速食阅读，不要让自己成为信息的容器。对重要的事物你要观察仔细，同时对不重要的事物不要关注太多。对于可说的，你有义务把它说明白。对于不可说的，你要保持沉默。（理性）</p>
+<p>你在死之前，应该赢得诗人的称号。你营养不良，是因为你离诗歌太远。诗人构建的迷宫，所有灵魂高贵的人都能熟悉地穿越。诗歌应该清澈如恋人的眼。 （文学）</p>
+<p>音乐是人生的一济解药。（音乐）</p>
+<p>（戏剧）</p>
+<p>舞蹈是心之所至。如果舞蹈正确，它不应该有任何多余的动作。（舞蹈）</p>
+<p>一个内在心灵不够美的画家画不出外在世界的美。（绘画）</p>
+<p>摄影是挽歌的艺术。摄影师有一种权力，那是照相机赋予的，他该出入各种场合，以各种可能的方式，完成定格历史的目的。（影视）</p>
+<p>你要学习调色、调香、调味、调音、调形之术。你要用设计师的视角去搜集素材。 在建筑中，你能看到一座城市的性情，以及它的居民对于美的理解。（设计）</p>
+<p>（商业）</p>
+<p>（技术）<br>
+“身体是每个人的神殿,不管里面供奉的是什么，都应该好好保持它的强韧、美丽和清洁”。每周至少锻炼三次，应当包括耐力（跑步、游泳）、韧性（拉伸）和力量（俯卧撑，引体向上）的训练。摄取机体正常运转所需的营养，品尝能够温暖人心的食物。身体需要休息的时候，我就休息。（身体</p>
+<p>不要只在意远方的目的，此时比在远比目的重要。行走的好处在于发现未知的生活，不然人容易以为他的过去就是他的未来。我相信，世界远比我生活和想像得要辽阔和壮观。没有一座城市是属于你的，而你属于这个千奇百怪的世界。（旅行）</p>
+<p>你要学习经营，成为创业者，因为理想的工作多数是创造出来的，而不是寻找到的。学着让自己很难被替代，像公司一样建立自己的护城河。人很难靠出卖自己的单位时间获得财富，你要寻找非对称回报的机会，即那种失败了损失很低，但一旦成功回报巨大的机会。你要学习投资，让时间成为资源增值的方式。学习管理风险，管理风险的一个重要方法是要做多个相关性很低或者负相关性的押注，不要玩你无法承担最坏结果的游戏，无论那个最坏结果发生的概率有多低。贫困会带来很多问题，诸如疾病、偷窃、想象力的匮乏，可是更多的钱不代表更好的生活。（财富）</p>
+<p>民族主义是集体的自私，它甚至教唆青年去屠戮其他国家的公民。警惕用敌人的姿态去反对敌人，不要和敌人长着一副面孔。（权力）</p>
+<p>成名的代价是巨大的，匿名是一种特权。要是能够，你要富有且低调，而非穷困又出名。（名声）</p>
+<p>我感到自己出身的优越，因为我似乎得到了比周围人更多的关爱和自由。都说“父母在，不远游”，是你们成全了我的背井离乡，是你们原谅了我的辍学游走。生命无常，珍惜共聚的时光。（亲情）</p>
+<p>和朋友一起玩玩具比拥有玩具更好。朋友关系稳固存在的前提在于两个人解决问题比一个人解决问题解决得更好。他应该真诚、有趣、重情谊，他在必要时会指出你的不足，给你建议。（友情）</p>
+<p>你是风中的水仙，眼睛明亮，声音带点胆怯，樱桃红唇，肌肤可亲，身上的清香诱人，被你碰过的嘴唇如覆蜜。你穿着冷色的衣服，有着暖色的笑容。你一脸诚实的表情，有时疯狂，有时迷惘，有时沉吟，有时欢唱。（爱情）</p>
+<p>充足的阳光，合适的温度与湿度。尽可能买你能负担得起的最好的工具：工程学座椅，舒适的床。（环境）</p>
+<p>Ludwig Wittgenstein，陈嘉映，李零，梁文道，许知远；Franz Kafka，Oscar Wilde，张岱，曹雪芹，钱钟书，白先勇，北岛，海子；Pina Bausch；Gustav Mahler，Bob Dylan，Leonard Cohen，Joan Baez，Pink Floyd，Peter Doherty，Sopor Aeternus，The Queen，Lacrimosa，周云蓬，李志，腰乐队，万能青年旅店，张楚，木马，王三溥，凸古堂，好妹妹，胡德夫；侯孝贤，王家卫；陶哲轩；Bill Gates，Steve Jobs，Jack Dorsey，Elon Musk，Peter Thiel。（重要他人）</p>
+<p>唤青社，家工作营，银杏文学社，去你的吧，老书虫，迷笛，广西师范大学出版社，单向空间，南方周末，豆瓣，知乎，阿里巴巴，Apple，Google，Microsoft，Amazon，Facebook，Twitter，Wikipedia，Quora，Evernote，Uber，Adobe，IBM，IKEA，Walmart，Zara，YHA，Y Combinator，TED，Lonely Planet。（重要机构）</p>
+<p>石砰，灵溪，衢州，苍南中学，云南大学，文化巷，大理，丽江，香格里拉，螳螂川，富民大叠水，玉溪抚仙湖，弥勒麻风病村，建水燕子洞，沾益珠江源，武定狮子山，宽窄巷子，平江路，山塘街，科文中心，李公堤，苏州图书馆，苏州博物馆，同里，太湖，苏州大学，三里屯，南锣鼓巷，798，国家图书馆，北京电影学院，中央戏剧学院，华清嘉园，西湖，西溪湿地，浙江大学，中国美术学院，坤和西溪里，云栖竹径，九溪烟树，伊罗伊教育，方所书店，中山大学，旧天堂书店，红专厂，南风古灶，夫子庙，先锋书店，东关街，西津渡，义乌。（重要地点）</p>
+</div>
 	</section>
 
 
@@ -430,7 +292,7 @@ onload='renderMathInElement(document.body);'></script>
 	<div class="text-sm text-gray-500 leading-tight a-gray">
 		Copyright © 2021
 		<br />
-		Built with Hugo and theme <a href="https://github.com/heyeshuang/hugo-theme-tokiwa">Tokiwa</a>. 445 words in this page.
+		Built with Hugo and theme <a href="https://github.com/heyeshuang/hugo-theme-tokiwa">Tokiwa</a>. 3009 words in this page.
 	</div>
 </div>
 
@@ -441,17 +303,17 @@ onload='renderMathInElement(document.body);'></script>
 <hr class="double-line" />
 <div class="flex flex-wrap justify-between pb-2 leading-loose font-serif">
     
-    <a class="flex-grow-0" href="/post/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%9C%9D%E5%9C%A3/">
+    <a class="flex-grow-0" href="/post/placeholder-text/">
         <svg class="fill-current inline-block h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24"
             height="24">
             <path fill="none" d="M0 0h24v24H0z" />
             <path d="M7.828 11H20v2H7.828l5.364 5.364-1.414 1.414L4 12l7.778-7.778 1.414 1.414z" /></svg>
-        Markdown Syntax Guide
+        Placeholder Text
     </a>
     
     
-    <a class="flex-grow-0" href="/archives/">
-        
+    <a class="flex-grow-0" href="/post/markdown-syntax/">
+        Markdown Syntax Guide
         <svg class="fill-current inline-block h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24"
             height="24">
             <path fill="none" d="M0 0h24v24H0z" />
@@ -466,7 +328,7 @@ onload='renderMathInElement(document.body);'></script>
 	<span class="heading pr-6 leading-loose">Related</span>
 	<span >
 		
-			<a href="/post/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%9C%9D%E5%9C%A3/">Markdown Syntax Guide</a>&nbsp;&nbsp;&#47;&nbsp;
+			<a href="/post/markdown-syntax/">Markdown Syntax Guide</a>&nbsp;&nbsp;&#47;&nbsp;
 		
 			<a href="/post/placeholder-text/">Placeholder Text</a>
 		
