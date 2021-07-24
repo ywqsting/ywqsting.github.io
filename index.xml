@@ -6,7 +6,7 @@
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Jul 2021 21:09:25 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jul 2021 21:25:26 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme preview</title>
       <link>http://localhost:1313/post/even-preview/</link>
@@ -25,6 +25,15 @@
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>申克·阿伦斯《卡片笔记写作法》</title>
+      <link>http://localhost:1313/post/%E7%94%B3%E5%85%8B%E9%98%BF%E4%BC%A6%E6%96%AF%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0%E5%86%99%E4%BD%9C%E6%B3%95/</link>
+      <pubDate>Sat, 24 Jul 2021 21:25:26 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E7%94%B3%E5%85%8B%E9%98%BF%E4%BC%A6%E6%96%AF%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0%E5%86%99%E4%BD%9C%E6%B3%95/</guid>
+      <description>Metadata Title: 申克·阿伦斯《卡片笔记写作法》 Create: 2021-07-17 Tags: #genre #concept Notes 重点归纳 三类笔记：闪念笔记，文献笔记，永久笔记 原则 写作 简洁 赞同 不赞同 对我的意义 Quotes 不要以“主题”</description>
     </item>
     
     <item>
