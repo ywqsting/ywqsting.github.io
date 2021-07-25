@@ -4,9 +4,16 @@
         <link>https://example.com/</link>
         <description>关于 LoveIt 主题</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>ywqsting@gmail.com (青崖白鹿)</managingEditor>
-            <webMaster>ywqsting@gmail.com (青崖白鹿)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 25 Jul 2021 13:14:56 &#43;0800</lastBuildDate>
+            <webMaster>ywqsting@gmail.com (青崖白鹿)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 24 Jul 2021 13:14:56 &#43;0800</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>2021年阅读计划</title>
+    <link>https://example.com/2021%E5%B9%B4%E9%98%85%E8%AF%BB%E8%AE%A1%E5%88%92/</link>
+    <pubDate>Sat, 24 Jul 2021 13:14:56 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/2021%E5%B9%B4%E9%98%85%E8%AF%BB%E8%AE%A1%E5%88%92/</guid>
+    <description><![CDATA[2021年上半年 [[陈春成《夜晚的潜水艇》]] 李沧东《烧纸》 陈映真《夜行货车》 毛姆《寻欢作乐》 奥尔加·托卡尔丘克《怪诞故事集》 陀思妥耶夫斯基]]></description>
+</item><item>
     <title>主题文档 - 基本概念</title>
     <link>https://example.com/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
@@ -48,12 +55,5 @@
     <author>作者</author>
     <guid>https://example.com/emoji-support/</guid>
     <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
-</item><item>
-    <title>2021年阅读计划</title>
-    <link>https://example.com/2021%E5%B9%B4%E9%98%85%E8%AF%BB%E8%AE%A1%E5%88%92/</link>
-    <pubDate>Sun, 25 Jul 2021 13:14:56 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/2021%E5%B9%B4%E9%98%85%E8%AF%BB%E8%AE%A1%E5%88%92/</guid>
-    <description><![CDATA[2021年上半年 [[陈春成《夜晚的潜水艇》]] 李沧东《烧纸》 陈映真《夜行货车》 毛姆《寻欢作乐》 奥尔加·托卡尔丘克《怪诞故事集》 陀思妥耶夫斯基]]></description>
 </item></channel>
 </rss>
