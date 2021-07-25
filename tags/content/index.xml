@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>内容 - 标签 - 斌记花园</title>
+        <link>https://ywqsting.netlify.app/tags/content/</link>
+        <description>内容 - 标签 - 斌记花园</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>icaiguobin@gmail.com (青崖白鹿)</managingEditor>
+            <webMaster>icaiguobin@gmail.com (青崖白鹿)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://ywqsting.netlify.app/tags/content/" rel="self" type="application/rss+xml" /></channel>
+</rss>
