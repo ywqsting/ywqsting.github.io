@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>emoji - 标签 - 斌记花园</title>
-        <link>https://example.com/tags/emoji/</link>
+        <link>https://ywqsting.netlify.app/tags/emoji/</link>
         <description>emoji - 标签 - 斌记花园</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>ywqsting@gmail.com (青崖白鹿)</managingEditor>
-            <webMaster>ywqsting@gmail.com (青崖白鹿)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</lastBuildDate><atom:link href="https://example.com/tags/emoji/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>icaiguobin@gmail.com (青崖白鹿)</managingEditor>
+            <webMaster>icaiguobin@gmail.com (青崖白鹿)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</lastBuildDate><atom:link href="https://ywqsting.netlify.app/tags/emoji/" rel="self" type="application/rss+xml" /><item>
     <title>Emoji 支持</title>
-    <link>https://example.com/emoji-support/</link>
+    <link>https://ywqsting.netlify.app/emoji-support/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://example.com/emoji-support/</guid>
+    <guid>https://ywqsting.netlify.app/emoji-support/</guid>
     <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
 </item></channel>
 </rss>
