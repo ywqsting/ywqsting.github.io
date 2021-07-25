@@ -2,7 +2,7 @@
     <channel>
         <title>斌记花园</title>
         <link>https://example.com/</link>
-        <description>关于 LoveIt 主题</description>
+        <description>青崖白鹿的私家花园</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>ywqsting@gmail.com (青崖白鹿)</managingEditor>
             <webMaster>ywqsting@gmail.com (青崖白鹿)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 24 Jul 2021 13:14:56 &#43;0800</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
