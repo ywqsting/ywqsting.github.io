@@ -6,10 +6,10 @@
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>icaiguobin@gmail.com (青崖白鹿)</managingEditor>
             <webMaster>icaiguobin@gmail.com (青崖白鹿)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 14 Aug 2021 20:05:39 &#43;0800</lastBuildDate><atom:link href="https://ywqsting.netlify.app/categories/dog/" rel="self" type="application/rss+xml" /><item>
     <title>个人建议创建两个仓库</title>
-    <link>https://ywqsting.netlify.app/lll/</link>
+    <link>https://ywqsting.netlify.app/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E8%AE%AE%E5%88%9B%E5%BB%BA%E4%B8%A4%E4%B8%AA%E4%BB%93%E5%BA%93/</link>
     <pubDate>Sat, 14 Aug 2021 20:05:39 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://ywqsting.netlify.app/lll/</guid>
+    <guid>https://ywqsting.netlify.app/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E8%AE%AE%E5%88%9B%E5%BB%BA%E4%B8%A4%E4%B8%AA%E4%BB%93%E5%BA%93/</guid>
     <description><![CDATA[个人建议创建两个仓库： 一个用于托管博客项目源文件，包括配置文件等包含后续可能配置 API KEY 的东西。设置权限为 Private（不公开） 一个用于托管博]]></description>
 </item></channel>
 </rss>
