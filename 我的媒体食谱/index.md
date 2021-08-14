@@ -22,7 +22,7 @@
 
 ## Blog / RSS / News Site
 - RSS工具：Feedly，Reeder
-- 中文资讯站点：雨果网，米课，知无不言；财新，第一财经，端传媒，报道者，澎湃，虎嗅，界面，36氪，少数派，全现在，看理想，单读，小鸟文学，CCTV，人民日报，读写人，十八腔，累牍，中国数字时代，华尔街见闻，虎嗅
+- 中文资讯站点：雨果网，米课，知无不言；财新，第一财经，端传媒，报道者，澎湃，虎嗅，界面，36氪，少数派，全现在，看理想，单读，小鸟文学，CCTV，人民日报，读写人，十八腔，累牍，中国数字时代，华尔街见闻
 - 外文资讯站点：NYT，WSJ，WP，FT，Economist，CNN，BBC，Guardian，New Yorker，TechCrunch，Techmeme，Bloomberg Businessweek，Atlantic，Foreign Affairs，Monocle，Laphams Quarterly，HBR，The Paris Review，London Review of Books，Rolling Stone，Scientific American，Popular Science，National Geographic
 - 中文博客：阮一峰的网络日志，饱蠹楼阅读周刊，Camellia Yang，图帕先生，顾小北
 - 微信公众号：兽楼处，包邮区，饭桶戴老板，拆哪儿，晚点 LatePost，后现代邮报，全天候科技，华尔街见闻，玉树芝兰，孟岩， bookthing，橄榄古典音乐，L先生说，孤独的阅读者，黄灿然小站，慧田哲学，结绳志，利维坦，衣公子的剑，陈海贤，严锋老师，有趣的制造，中科院物理所，饶议科学，知识分子，增长黑客范冰，先生制造，叶檀楼市，正和岛
