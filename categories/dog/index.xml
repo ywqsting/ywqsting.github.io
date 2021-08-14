@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>dog - 分类 - 斌记花园</title>
+        <link>https://ywqsting.netlify.app/categories/dog/</link>
+        <description>dog - 分类 - 斌记花园</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>icaiguobin@gmail.com (青崖白鹿)</managingEditor>
+            <webMaster>icaiguobin@gmail.com (青崖白鹿)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 14 Aug 2021 20:05:39 &#43;0800</lastBuildDate><atom:link href="https://ywqsting.netlify.app/categories/dog/" rel="self" type="application/rss+xml" /><item>
+    <title>Lll</title>
+    <link>https://ywqsting.netlify.app/lll/</link>
+    <pubDate>Sat, 14 Aug 2021 20:05:39 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ywqsting.netlify.app/lll/</guid>
+    <description><![CDATA[rrr]]></description>
+</item></channel>
+</rss>
